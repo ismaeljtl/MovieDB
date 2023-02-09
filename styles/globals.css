@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.selected {
+  font-weight: bold;
+  background: white;
+  padding: 0 0.35rem;
+  border-radius: 4px;
+}
